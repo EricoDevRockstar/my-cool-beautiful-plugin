@@ -1,2 +1,4 @@
 # my-cool-beautiful-plugin
-Developing a cool plugin to add content editing functionality to the posts and pages etc capability.
+Developing a cool plugin to add content editing functionality to the posts capability.
+
+Idea have a Post Statistics: The number of words, letters etc.
