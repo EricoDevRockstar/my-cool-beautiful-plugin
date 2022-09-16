@@ -1,7 +1,7 @@
 <?php
 
 /*
-    Plugin Name: My Cool Beautiful Plugin
+    Plugin Name: My Cool Beautiful Plugin WordCount
     Description: The most beautiful plugin being developed.
     Version: 1.2.0
     Author: Eric M.
