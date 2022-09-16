@@ -1,7 +1,7 @@
 <?php
 
 /*
-    Plugin Name: My Cool Beautiful Plugin
+    Plugin Name: My Cool Beautiful Plugin WordCount
     Description: The most beautiful plugin being developed.
     Version: 1.2.0
     Author: Eric M.
@@ -10,6 +10,7 @@
     Domain Path: /languages
 */
 
+// Name of plugin was edited to My Cool Beautiful Plugin WordCount
 class WordCountAndTimePlugin {
   function __construct() {
     add_action('admin_menu', array($this, 'adminPage'));
